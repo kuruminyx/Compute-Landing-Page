@@ -1,8 +1,8 @@
-# COMPUTE — AI Agent Platform
+# COMPUTE — Premium AI Agent Landing Page
 
 ![Banner](public/screenshot.png)
 
-**COMPUTE** is a high-performance, distributed platform designed for building, deploying, and orchestrating autonomous AI agents. Built with a focus on speed, reliability, and a premium developer experience.
+**COMPUTE** is a high-performance, cinematic landing page concept designed for an AI agent platform. This project showcases modern web design, smooth momentum scrolling, and a premium developer aesthetic.
 
 ## ✨ Features
 
