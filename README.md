@@ -1,6 +1,6 @@
 # COMPUTE — AI Agent Platform
 
-![Banner](https://images.unsplash.com/photo-1639322537228-f710d846310a?q=80&w=2000&auto=format&fit=crop)
+![Banner](public/screenshot.png)
 
 **COMPUTE** is a high-performance, distributed platform designed for building, deploying, and orchestrating autonomous AI agents. Built with a focus on speed, reliability, and a premium developer experience.
 
